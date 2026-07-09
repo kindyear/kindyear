@@ -54,24 +54,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kindyear&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kindyear&theme=transparent&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kindyear&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
 ## 📫 Contact
 
 📧 **Email**
